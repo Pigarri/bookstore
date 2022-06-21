@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 067475c80c77754b07dfc09ddc01ca74442e2d4e Diego.Pigarri <diego.pigarri@gmail.com> 1655318552 -0300	commit (initial): initial commit
+067475c80c77754b07dfc09ddc01ca74442e2d4e f3df4e0133df80ea3230d6cdcd3db78da6cb80fb Diego.Pigarri <diego.pigarri@gmail.com> 1655319713 -0300	commit: commit inicial
+f3df4e0133df80ea3230d6cdcd3db78da6cb80fb ba8660651f6e0b10534142543217efe0f48e98e3 Diego.Pigarri <diego.pigarri@gmail.com> 1655320526 -0300	commit: angular material instalado no projeto
+ba8660651f6e0b10534142543217efe0f48e98e3 218a3b85402e92e3dfaebfcd54f448182c10293b Diego.Pigarri <diego.pigarri@gmail.com> 1655323646 -0300	commit: iniciando codificação da pagina inicial
+218a3b85402e92e3dfaebfcd54f448182c10293b a608a62d914ca77fee6bb5b641d5a149f0e7f526 Diego.Pigarri <diego.pigarri@gmail.com> 1655469774 -0300	commit: home implementado com rota
+a608a62d914ca77fee6bb5b641d5a149f0e7f526 45b7b5c9e476496abf0cd22c0fcabd235610fceb Diego.Pigarri <diego.pigarri@gmail.com> 1655472312 -0300	commit: implementado a table que ira receber os dados do back
+45b7b5c9e476496abf0cd22c0fcabd235610fceb 098ffe508926dd0ec40571f80b546e8dc1ac297e Diego.Pigarri <diego.pigarri@gmail.com> 1655489204 -0300	commit: categoria-read foi implementado
+098ffe508926dd0ec40571f80b546e8dc1ac297e 8dfa6fba0bc60d796b6cfd4dcb24fb65b47dcde0 Diego.Pigarri <diego.pigarri@gmail.com> 1655496907 -0300	commit: metodo create implementado para categoria
+8dfa6fba0bc60d796b6cfd4dcb24fb65b47dcde0 e73c976eda434f3e6beb179417906ad3ffdedbc6 Diego.Pigarri <diego.pigarri@gmail.com> 1655728252 -0300	commit: implementação do create categoria finalizado
+e73c976eda434f3e6beb179417906ad3ffdedbc6 fe9504a7cad1aff7e10cac2de49bd11ad6cd2a8d Diego.Pigarri <diego.pigarri@gmail.com> 1655742644 -0300	commit: Categoria DELETE implementado
+fe9504a7cad1aff7e10cac2de49bd11ad6cd2a8d 6af8df65452625e153fb9b0f6d1fd3b78c5d1ea8 Diego.Pigarri <diego.pigarri@gmail.com> 1655746217 -0300	commit: UPDATE para Categoria implementado
+6af8df65452625e153fb9b0f6d1fd3b78c5d1ea8 0acd1b3a579d28d0e675e45aec2f07b374dcd5c0 Diego.Pigarri <diego.pigarri@gmail.com> 1655755249 -0300	commit: Implementado readAll de Livros
+0acd1b3a579d28d0e675e45aec2f07b374dcd5c0 d78941762727bcd5b995ccd5cd4bc109f1f1fe97 Diego.Pigarri <diego.pigarri@gmail.com> 1655764890 -0300	commit: Implementação de POST do Livro criado com validações
+d78941762727bcd5b995ccd5cd4bc109f1f1fe97 9705720e866035e42885373bbeff2b9d380d544a Diego.Pigarri <diego.pigarri@gmail.com> 1655770275 -0300	commit: UPDATE para Livro implementado
+9705720e866035e42885373bbeff2b9d380d544a 3a60f1aa1e8c45609c945553cc56d8705d0f56af Diego.Pigarri <diego.pigarri@gmail.com> 1655811407 -0300	commit: DELETE para Livro implementado
+3a60f1aa1e8c45609c945553cc56d8705d0f56af 91c7345f1dacf770ec8cea2d0933495c59bba706 Diego.Pigarri <diego.pigarri@gmail.com> 1655812603 -0300	commit: READ para livro implementado
